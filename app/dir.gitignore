@@ -1,0 +1,11 @@
+# Built files
+*.iml
+.idea/
+.gradle/
+local.properties
+build/
+app/build/
+*.apk
+*.aar
+.cxx/
+capture/
